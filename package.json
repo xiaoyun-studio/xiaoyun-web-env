@@ -1,7 +1,10 @@
 {
   "name": "xiaoyun-web",
   "dependencies": {
-    "nuxt": "latest"
+    "axios": "^0.16.2",
+    "iview": "^2.0.0",
+    "mavon-editor": "^2.2.2",
+    "nuxt": "^1.0.0-rc8"
   },
   "scripts": {
     "dev": "nuxt",
